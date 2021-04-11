@@ -1,5 +1,5 @@
 ---
-title: "Keying Meng is a 维尼熊呀"
+title: "Keying Meng is a 维尼呀"
 output: revealjs::revealjs_presentation
 ---
 
